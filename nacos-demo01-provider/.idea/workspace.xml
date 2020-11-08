@@ -1,0 +1,178 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="9b515918-4c84-48fc-9bc3-6f35ca0304f2" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="userSettingsFile" value="D:\Maven\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1jzHrKHFt22gftzTdfAEL7iXy0w" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_directory_selection" value="$PROJECT_DIR$/src/main/java" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RunManager" selected="Spring Boot.NacosDemo01ConsumerApplication">
+    <configuration name="DemoProviderApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="nacos-demo01-provider" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.series.entry.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.series.entry.DemoProviderApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="NacosDemo01ConsumerApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="nacos-demo01-consumer" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.martin.decolor.nacosdemo01consumer.NacosDemo01ConsumerApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Spring Boot.DemoProviderApplication" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="9b515918-4c84-48fc-9bc3-6f35ca0304f2" name="Default Changelist" comment="" />
+      <created>1604800197609</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1604800197609</updated>
+      <workItem from="1604800201727" duration="6260000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="267" y="0" key="#Project_Structure" timestamp="1604801733958">
+      <screen x="0" y="0" width="1549" height="831" />
+    </state>
+    <state x="267" y="0" key="#Project_Structure/0.0.1549.831@0.0.1549.831" timestamp="1604801733958" />
+    <state x="433" y="213" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1604801226411">
+      <screen x="0" y="0" width="1549" height="831" />
+    </state>
+    <state x="433" y="213" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1549.831@0.0.1549.831" timestamp="1604801226411" />
+    <state width="547" height="582" key="DebuggerActiveHint" timestamp="1604805887396">
+      <screen x="0" y="0" width="1549" height="831" />
+    </state>
+    <state width="547" height="582" key="DebuggerActiveHint/0.0.1549.831@0.0.1549.831" timestamp="1604805887396" />
+    <state width="1496" height="250" key="GridCell.Tab.0.bottom" timestamp="1604806495891">
+      <screen x="0" y="0" width="1549" height="831" />
+    </state>
+    <state width="1496" height="250" key="GridCell.Tab.0.bottom/0.0.1549.831@0.0.1549.831" timestamp="1604806495891" />
+    <state width="1496" height="250" key="GridCell.Tab.0.center" timestamp="1604806495891">
+      <screen x="0" y="0" width="1549" height="831" />
+    </state>
+    <state width="1496" height="250" key="GridCell.Tab.0.center/0.0.1549.831@0.0.1549.831" timestamp="1604806495891" />
+    <state width="1496" height="250" key="GridCell.Tab.0.left" timestamp="1604806495891">
+      <screen x="0" y="0" width="1549" height="831" />
+    </state>
+    <state width="1496" height="250" key="GridCell.Tab.0.left/0.0.1549.831@0.0.1549.831" timestamp="1604806495891" />
+    <state width="1496" height="250" key="GridCell.Tab.0.right" timestamp="1604806495891">
+      <screen x="0" y="0" width="1549" height="831" />
+    </state>
+    <state width="1496" height="250" key="GridCell.Tab.0.right/0.0.1549.831@0.0.1549.831" timestamp="1604806495891" />
+    <state width="1496" height="250" key="GridCell.Tab.1.bottom" timestamp="1604806484881">
+      <screen x="0" y="0" width="1549" height="831" />
+    </state>
+    <state width="1496" height="250" key="GridCell.Tab.1.bottom/0.0.1549.831@0.0.1549.831" timestamp="1604806484881" />
+    <state width="1496" height="250" key="GridCell.Tab.1.center" timestamp="1604806484881">
+      <screen x="0" y="0" width="1549" height="831" />
+    </state>
+    <state width="1496" height="250" key="GridCell.Tab.1.center/0.0.1549.831@0.0.1549.831" timestamp="1604806484881" />
+    <state width="1496" height="250" key="GridCell.Tab.1.left" timestamp="1604806484881">
+      <screen x="0" y="0" width="1549" height="831" />
+    </state>
+    <state width="1496" height="250" key="GridCell.Tab.1.left/0.0.1549.831@0.0.1549.831" timestamp="1604806484881" />
+    <state width="1496" height="250" key="GridCell.Tab.1.right" timestamp="1604806484881">
+      <screen x="0" y="0" width="1549" height="831" />
+    </state>
+    <state width="1496" height="250" key="GridCell.Tab.1.right/0.0.1549.831@0.0.1549.831" timestamp="1604806484881" />
+    <state width="1496" height="250" key="GridCell.Tab.2.bottom" timestamp="1604806496349">
+      <screen x="0" y="0" width="1549" height="831" />
+    </state>
+    <state width="1496" height="250" key="GridCell.Tab.2.bottom/0.0.1549.831@0.0.1549.831" timestamp="1604806496349" />
+    <state width="1496" height="250" key="GridCell.Tab.2.center" timestamp="1604806496349">
+      <screen x="0" y="0" width="1549" height="831" />
+    </state>
+    <state width="1496" height="250" key="GridCell.Tab.2.center/0.0.1549.831@0.0.1549.831" timestamp="1604806496349" />
+    <state width="1496" height="250" key="GridCell.Tab.2.left" timestamp="1604806496349">
+      <screen x="0" y="0" width="1549" height="831" />
+    </state>
+    <state width="1496" height="250" key="GridCell.Tab.2.left/0.0.1549.831@0.0.1549.831" timestamp="1604806496349" />
+    <state width="1496" height="250" key="GridCell.Tab.2.right" timestamp="1604806496349">
+      <screen x="0" y="0" width="1549" height="831" />
+    </state>
+    <state width="1496" height="250" key="GridCell.Tab.2.right/0.0.1549.831@0.0.1549.831" timestamp="1604806496349" />
+    <state x="163" y="0" key="SettingsEditor" timestamp="1604803488531">
+      <screen x="0" y="0" width="1549" height="831" />
+    </state>
+    <state x="163" y="0" key="SettingsEditor/0.0.1549.831@0.0.1549.831" timestamp="1604803488531" />
+    <state x="549" y="185" key="chooseDestDirectoryDialog" timestamp="1604801836913">
+      <screen x="0" y="0" width="1549" height="831" />
+    </state>
+    <state x="549" y="185" key="chooseDestDirectoryDialog/0.0.1549.831@0.0.1549.831" timestamp="1604801836913" />
+    <state x="0" y="101" width="1549" height="684" key="new project wizard" timestamp="1604802515812">
+      <screen x="0" y="0" width="1549" height="831" />
+    </state>
+    <state x="0" y="101" width="1549" height="684" key="new project wizard/0.0.1549.831@0.0.1549.831" timestamp="1604802515812" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/../nacos-demo01-consumer/nacos-demo01-consumer/src/main/java/com/martin/decolor/nacosdemo01consumer/controller/RequestController.java</url>
+          <line>42</line>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/../nacos-demo01-consumer/nacos-demo01-consumer/src/main/java/com/martin/decolor/nacosdemo01consumer/controller/RequestController.java</url>
+          <line>46</line>
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
