@@ -2,12 +2,6 @@ spring:
   application:
     name: demo01-provider
 
-  cloud:
-    nacos:
-      # Nacos 作为注册中心的配置项，对应 NacosDiscoveryProperties 配置类
-      discovery:
-        server-addr: 127.0.0.1:8848    # nacos 服务器地址
-        service: ${spring.application.name}   # 注册到 nacos 的服务名。默认为${spring.application.name}
-
 server:
-  port: 18080
+#  port: 18080
+  port: ${random.int[2000,8000]}

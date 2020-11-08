@@ -5,6 +5,7 @@
       <list>
         <option value="$PROJECT_DIR$/pom.xml" />
         <option value="$PROJECT_DIR$/../nacos-demo01-consumer/nacos-demo01-consumer/pom.xml" />
+        <option value="$PROJECT_DIR$/../nacos-demo01-consumer/pom.xml" />
       </list>
     </option>
   </component>

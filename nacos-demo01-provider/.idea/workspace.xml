@@ -28,6 +28,7 @@
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ExpandSpringBootJavaOptionsPanel" value="true" />
     <property name="RequestMappingsPanelOrder0" value="0" />
     <property name="RequestMappingsPanelOrder1" value="1" />
     <property name="RequestMappingsPanelWidth0" value="75" />
@@ -36,13 +37,20 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="last_directory_selection" value="$PROJECT_DIR$/src/main/java" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../nacos-demo01-consumer/src/main/resources" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\GitHub\Spring Cloud Demo\nacos-demo01-consumer\src\main\resources" />
+      <recent name="D:\GitHub\Spring Cloud Demo\nacos-demo01-provider\src\main\resources" />
+    </key>
+  </component>
   <component name="RunManager" selected="Spring Boot.NacosDemo01ConsumerApplication">
-    <configuration name="DemoProviderApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+    <configuration name="DemoProviderApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" singleton="false" temporary="true" nameIsGenerated="true">
       <module name="nacos-demo01-provider" />
       <extension name="coverage">
         <pattern>
@@ -51,13 +59,18 @@
         </pattern>
       </extension>
       <option name="SPRING_BOOT_MAIN_CLASS" value="com.series.entry.DemoProviderApplication" />
+      <option name="ACTIVE_PROFILES" value="dev" />
+      <option name="PROGRAM_PARAMETERS" value="--spring.profiles.active=pro" />
+      <option name="ALTERNATIVE_JRE_PATH" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="NacosDemo01ConsumerApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+    <configuration name="NacosDemo01ConsumerApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" singleton="false">
       <module name="nacos-demo01-consumer" />
       <option name="SPRING_BOOT_MAIN_CLASS" value="com.martin.decolor.nacosdemo01consumer.NacosDemo01ConsumerApplication" />
+      <option name="PROGRAM_PARAMETERS" value="--spring.profiles.active=dev" />
+      <option name="ALTERNATIVE_JRE_PATH" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -78,7 +91,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1604800197609</updated>
-      <workItem from="1604800201727" duration="6260000" />
+      <workItem from="1604800201727" duration="12408000" />
     </task>
     <servers />
   </component>
@@ -86,10 +99,22 @@
     <option name="version" value="1" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="371" y="0" width="825" height="831" key="#DemoProviderApplication" timestamp="1604823631171">
+      <screen x="0" y="0" width="1549" height="831" />
+    </state>
+    <state x="371" y="0" width="825" height="831" key="#DemoProviderApplication/0.0.1549.831@0.0.1549.831" timestamp="1604823631171" />
+    <state x="365" y="0" width="825" height="831" key="#NacosDemo01ConsumerApplication" timestamp="1604824149492">
+      <screen x="0" y="0" width="1549" height="831" />
+    </state>
+    <state x="365" y="0" width="825" height="831" key="#NacosDemo01ConsumerApplication/0.0.1549.831@0.0.1549.831" timestamp="1604824149492" />
     <state x="267" y="0" key="#Project_Structure" timestamp="1604801733958">
       <screen x="0" y="0" width="1549" height="831" />
     </state>
     <state x="267" y="0" key="#Project_Structure/0.0.1549.831@0.0.1549.831" timestamp="1604801733958" />
+    <state x="432" y="115" width="1089" height="653" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1604822061246">
+      <screen x="0" y="0" width="1549" height="831" />
+    </state>
+    <state x="432" y="115" width="1089" height="653" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1549.831@0.0.1549.831" timestamp="1604822061246" />
     <state x="433" y="213" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1604801226411">
       <screen x="0" y="0" width="1549" height="831" />
     </state>
@@ -98,54 +123,62 @@
       <screen x="0" y="0" width="1549" height="831" />
     </state>
     <state width="547" height="582" key="DebuggerActiveHint/0.0.1549.831@0.0.1549.831" timestamp="1604805887396" />
-    <state width="1496" height="250" key="GridCell.Tab.0.bottom" timestamp="1604806495891">
+    <state x="505" y="45" key="FileChooserDialogImpl" timestamp="1604817551624">
       <screen x="0" y="0" width="1549" height="831" />
     </state>
-    <state width="1496" height="250" key="GridCell.Tab.0.bottom/0.0.1549.831@0.0.1549.831" timestamp="1604806495891" />
-    <state width="1496" height="250" key="GridCell.Tab.0.center" timestamp="1604806495891">
+    <state x="505" y="45" key="FileChooserDialogImpl/0.0.1549.831@0.0.1549.831" timestamp="1604817551624" />
+    <state width="1496" height="265" key="GridCell.Tab.0.bottom" timestamp="1604824164445">
       <screen x="0" y="0" width="1549" height="831" />
     </state>
-    <state width="1496" height="250" key="GridCell.Tab.0.center/0.0.1549.831@0.0.1549.831" timestamp="1604806495891" />
-    <state width="1496" height="250" key="GridCell.Tab.0.left" timestamp="1604806495891">
+    <state width="1496" height="265" key="GridCell.Tab.0.bottom/0.0.1549.831@0.0.1549.831" timestamp="1604824164445" />
+    <state width="1496" height="265" key="GridCell.Tab.0.center" timestamp="1604824164444">
       <screen x="0" y="0" width="1549" height="831" />
     </state>
-    <state width="1496" height="250" key="GridCell.Tab.0.left/0.0.1549.831@0.0.1549.831" timestamp="1604806495891" />
-    <state width="1496" height="250" key="GridCell.Tab.0.right" timestamp="1604806495891">
+    <state width="1496" height="265" key="GridCell.Tab.0.center/0.0.1549.831@0.0.1549.831" timestamp="1604824164444" />
+    <state width="1496" height="265" key="GridCell.Tab.0.left" timestamp="1604824164444">
       <screen x="0" y="0" width="1549" height="831" />
     </state>
-    <state width="1496" height="250" key="GridCell.Tab.0.right/0.0.1549.831@0.0.1549.831" timestamp="1604806495891" />
-    <state width="1496" height="250" key="GridCell.Tab.1.bottom" timestamp="1604806484881">
+    <state width="1496" height="265" key="GridCell.Tab.0.left/0.0.1549.831@0.0.1549.831" timestamp="1604824164444" />
+    <state width="1496" height="265" key="GridCell.Tab.0.right" timestamp="1604824164444">
       <screen x="0" y="0" width="1549" height="831" />
     </state>
-    <state width="1496" height="250" key="GridCell.Tab.1.bottom/0.0.1549.831@0.0.1549.831" timestamp="1604806484881" />
-    <state width="1496" height="250" key="GridCell.Tab.1.center" timestamp="1604806484881">
+    <state width="1496" height="265" key="GridCell.Tab.0.right/0.0.1549.831@0.0.1549.831" timestamp="1604824164444" />
+    <state width="1496" height="265" key="GridCell.Tab.1.bottom" timestamp="1604824179191">
       <screen x="0" y="0" width="1549" height="831" />
     </state>
-    <state width="1496" height="250" key="GridCell.Tab.1.center/0.0.1549.831@0.0.1549.831" timestamp="1604806484881" />
-    <state width="1496" height="250" key="GridCell.Tab.1.left" timestamp="1604806484881">
+    <state width="1496" height="265" key="GridCell.Tab.1.bottom/0.0.1549.831@0.0.1549.831" timestamp="1604824179191" />
+    <state width="1496" height="265" key="GridCell.Tab.1.center" timestamp="1604824179191">
       <screen x="0" y="0" width="1549" height="831" />
     </state>
-    <state width="1496" height="250" key="GridCell.Tab.1.left/0.0.1549.831@0.0.1549.831" timestamp="1604806484881" />
-    <state width="1496" height="250" key="GridCell.Tab.1.right" timestamp="1604806484881">
+    <state width="1496" height="265" key="GridCell.Tab.1.center/0.0.1549.831@0.0.1549.831" timestamp="1604824179191" />
+    <state width="1496" height="265" key="GridCell.Tab.1.left" timestamp="1604824179191">
       <screen x="0" y="0" width="1549" height="831" />
     </state>
-    <state width="1496" height="250" key="GridCell.Tab.1.right/0.0.1549.831@0.0.1549.831" timestamp="1604806484881" />
-    <state width="1496" height="250" key="GridCell.Tab.2.bottom" timestamp="1604806496349">
+    <state width="1496" height="265" key="GridCell.Tab.1.left/0.0.1549.831@0.0.1549.831" timestamp="1604824179191" />
+    <state width="1496" height="265" key="GridCell.Tab.1.right" timestamp="1604824179191">
       <screen x="0" y="0" width="1549" height="831" />
     </state>
-    <state width="1496" height="250" key="GridCell.Tab.2.bottom/0.0.1549.831@0.0.1549.831" timestamp="1604806496349" />
-    <state width="1496" height="250" key="GridCell.Tab.2.center" timestamp="1604806496349">
+    <state width="1496" height="265" key="GridCell.Tab.1.right/0.0.1549.831@0.0.1549.831" timestamp="1604824179191" />
+    <state width="1496" height="265" key="GridCell.Tab.2.bottom" timestamp="1604824164445">
       <screen x="0" y="0" width="1549" height="831" />
     </state>
-    <state width="1496" height="250" key="GridCell.Tab.2.center/0.0.1549.831@0.0.1549.831" timestamp="1604806496349" />
-    <state width="1496" height="250" key="GridCell.Tab.2.left" timestamp="1604806496349">
+    <state width="1496" height="265" key="GridCell.Tab.2.bottom/0.0.1549.831@0.0.1549.831" timestamp="1604824164445" />
+    <state width="1496" height="265" key="GridCell.Tab.2.center" timestamp="1604824164445">
       <screen x="0" y="0" width="1549" height="831" />
     </state>
-    <state width="1496" height="250" key="GridCell.Tab.2.left/0.0.1549.831@0.0.1549.831" timestamp="1604806496349" />
-    <state width="1496" height="250" key="GridCell.Tab.2.right" timestamp="1604806496349">
+    <state width="1496" height="265" key="GridCell.Tab.2.center/0.0.1549.831@0.0.1549.831" timestamp="1604824164445" />
+    <state width="1496" height="265" key="GridCell.Tab.2.left" timestamp="1604824164445">
       <screen x="0" y="0" width="1549" height="831" />
     </state>
-    <state width="1496" height="250" key="GridCell.Tab.2.right/0.0.1549.831@0.0.1549.831" timestamp="1604806496349" />
+    <state width="1496" height="265" key="GridCell.Tab.2.left/0.0.1549.831@0.0.1549.831" timestamp="1604824164445" />
+    <state width="1496" height="265" key="GridCell.Tab.2.right" timestamp="1604824164445">
+      <screen x="0" y="0" width="1549" height="831" />
+    </state>
+    <state width="1496" height="265" key="GridCell.Tab.2.right/0.0.1549.831@0.0.1549.831" timestamp="1604824164445" />
+    <state x="353" y="55" key="NewModule_or_Project.wizard" timestamp="1604817553630">
+      <screen x="0" y="0" width="1549" height="831" />
+    </state>
+    <state x="353" y="55" key="NewModule_or_Project.wizard/0.0.1549.831@0.0.1549.831" timestamp="1604817553630" />
     <state x="163" y="0" key="SettingsEditor" timestamp="1604803488531">
       <screen x="0" y="0" width="1549" height="831" />
     </state>
@@ -163,14 +196,9 @@
     <breakpoint-manager>
       <breakpoints>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/../nacos-demo01-consumer/nacos-demo01-consumer/src/main/java/com/martin/decolor/nacosdemo01consumer/controller/RequestController.java</url>
-          <line>42</line>
-          <option name="timeStamp" value="4" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/../nacos-demo01-consumer/nacos-demo01-consumer/src/main/java/com/martin/decolor/nacosdemo01consumer/controller/RequestController.java</url>
-          <line>46</line>
-          <option name="timeStamp" value="5" />
+          <url>file://$PROJECT_DIR$/../nacos-demo01-consumer/src/main/java/com/martin/decolor/nacosdemo01consumer/controller/RequestController.java</url>
+          <line>52</line>
+          <option name="timeStamp" value="7" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
